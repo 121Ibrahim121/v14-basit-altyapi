@@ -32,7 +32,7 @@ client.on("ready", () => {
   console.log(`${client.guilds.cache.size} sunucu`)
   console.log(`_________________________`)
 })
-client.login("MTE1MzA1MzYyMjg4ODg0MTIzNg.GKjpEg.CM5yphPjUzxP4DG1Hsgh3Kb0O1HZUtOjTl3K_U")
+client.login("client.token")
 // ###############################################
 // ##   ig = yazilimke                          ##
 // ##   BU DOSYA İBRAHİM TARAFINDAN YAPILMIŞTIR ##
