@@ -3,3 +3,5 @@
 3. adım = node index.js
 
 instagram = _yazilimke
+
+discord = https://discord.gg/W3hKpGqK35
